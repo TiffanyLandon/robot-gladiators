@@ -1,29 +1,3 @@
- HEAD
-window.prompt("what is your robot's name?");
-
-var playerName = window.prompt("What is your robot's name?");
-
-//What is this?
-
-console.log(playerName);
-
-console.log("This logs a string, good for leaving youself a message");
-//this will do math and log 20
-console.log(10+10)
-//what is this
-console.log("Our robot's name is " + playerName)
-
-// this create function named "fight"
-
-function fight () {
-    window.alert("This fight has begun!");
-
-}
-
-
-
-// fight()
-
 var playerName = window.prompt("what is your robot's name");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -160,5 +134,4 @@ else {
 }
 
 // start the game when the page loads
-startGame()
- feature/initial-game
+startGame();

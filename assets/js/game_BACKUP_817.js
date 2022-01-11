@@ -1,4 +1,4 @@
- HEAD
+<<<<<<< HEAD
 window.prompt("what is your robot's name?");
 
 var playerName = window.prompt("What is your robot's name?");
@@ -23,7 +23,7 @@ function fight () {
 
 
 // fight()
-
+=======
 var playerName = window.prompt("what is your robot's name");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -160,5 +160,5 @@ else {
 }
 
 // start the game when the page loads
-startGame()
- feature/initial-game
+startGame();
+>>>>>>> feature/initial-game
