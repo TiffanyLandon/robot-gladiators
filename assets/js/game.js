@@ -161,4 +161,3 @@ else {
 
 // start the game when the page loads
 startGame()
- feature/initial-game
