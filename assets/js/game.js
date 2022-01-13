@@ -286,4 +286,3 @@ var enemyInfo = [
 
 /* RUN GAME */
 startGame();
-localStorage
